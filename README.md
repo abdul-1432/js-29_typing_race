@@ -2,7 +2,8 @@
 
 The Typing Race Game is a fun and interactive web-based game that challenges players to test their typing skills and compete against the clock. The goal of the game is to type the displayed words as quickly and accurately as possible. This repository contains the HTML, CSS, and JavaScript code for the game.
 
-![Typing Race Game Demo](demo.gif)
+![29](https://github.com/abdul-1432/js-29_typing_race/assets/124916666/8558c01c-e391-4f50-ba63-6f4a4bc5bd2b)
+
 
 ## How to Play
 
