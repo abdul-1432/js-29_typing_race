@@ -15,6 +15,9 @@ The Typing Race Game is a fun and interactive web-based game that challenges pla
 7. Your score will be calculated based on the number of correct words typed per minute.
 8. Try to beat your previous high score and challenge your friends!
 
+## Demo
+You can see the webpage live here [Demo](https://codepen.io/abdul-1432/pen/XWyYWNP)
+
 ## Features
 
 - Randomly generated words to keep the game challenging and interesting.
