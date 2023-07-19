@@ -31,8 +31,8 @@ You can see the webpage live here [Demo](https://codepen.io/abdul-1432/pen/XWyYW
 
 1. Clone the repository using Git:
 
-```bash[
-git clone https://github.com/abdul-1432/typing-race-game.git](https://github.com/abdul-1432/js-29_typing_race/blob/main/README.md)
+```bash
+https://github.com/abdul-1432/js-29_typing_race/js-29
 ```
 
 2. Navigate to the project directory:
